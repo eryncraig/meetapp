@@ -1,0 +1,21 @@
+{
+  "unknown": {
+    "versionSfCore": null,
+    "versionFramework": "4.4.5",
+    "isWithinCompose": false,
+    "composeOrgName": null,
+    "composeServiceName": null,
+    "command": [],
+    "options": {},
+    "error": {
+      "message": "Failed to download and install template from https://github.com/serverless/examples/tree/v4/aws-node-http-api due to A folder named \"/Users/eryncraig/Desktop/WebDev/meet/auth-server\" already exists.",
+      "stack": "Error: Failed to download and install template from https://github.com/serverless/examples/tree/v4/aws-node-http-api due to A folder named \"/Users/eryncraig/Desktop/WebDev/meet/auth-server\" already exists.\n    at routeNew (file:///Users/eryncraig/.serverless/releases/4.4.5/package/dist/sf-core.js:658:3268)\n    at async commandOnboarding (file:///Users/eryncraig/.serverless/releases/4.4.5/package/dist/sf-core.js:658:1998)\n    at async catchAllHandler (file:///Users/eryncraig/.serverless/releases/4.4.5/package/dist/sf-core.js:683:19702)\n    at async runCommand (file:///Users/eryncraig/.serverless/releases/4.4.5/package/dist/sf-core.js:973:10875)\n    at async route (file:///Users/eryncraig/.serverless/releases/4.4.5/package/dist/sf-core.js:973:12606)\n    at async Object.run2 [as run] (file:///Users/eryncraig/.serverless/releases/4.4.5/package/dist/sf-core.js:973:14355)\n    at async run3 (file:///Users/eryncraig/.serverless/releases/4.4.5/package/dist/sf-core.js:973:15617)"
+    },
+    "machineId": "9c54ca6983227b872947b844ea3e650c",
+    "serviceProviderAwsCfStackId": null,
+    "serviceProviderAwsCfStackCreated": null,
+    "serviceProviderAwsCfStackUpdated": null,
+    "serviceProviderAwsCfStackStatus": null,
+    "serviceProviderAwsCfStackOutputs": null
+  }
+}
